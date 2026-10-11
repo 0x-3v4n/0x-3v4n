@@ -25,15 +25,10 @@
 
 ---
 
-### 📊 GitHub Stats & Most Used Languages
+### 📊 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-3v4n&layout=compact&theme=default&hide_border=false&locale=id" alt="Bahasa Pemrograman Terbanyak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x-3v4n&show_icons=true&theme=default&hide_border=false&count_private=true&locale=id" alt="Statistik GitHub 0x3v4n" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x-3v4n&theme=swift&hide_border=false" alt="Rentetan Kontribusi GitHub" />
 </p>
 
 ---
