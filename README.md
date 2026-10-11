@@ -17,19 +17,17 @@
   <a href="https://instagram.com/finnway_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+
 ---
 
-### 📊 Statistik & Aktivitas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x-3v4n&show_icons=true&theme=default&hide_border=false&count_private=true&locale=id" alt="Statistik GitHub 0x3v4n" />
-</p>
+### 📊 GitHub Stats & Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-3v4n&layout=compact&theme=default&hide_border=false&locale=id" alt="Bahasa Pemrograman Terbanyak" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0x-3v4n&show_icons=true&theme=default&hide_border=false&count_private=true&locale=id" alt="Statistik GitHub 0x3v4n" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x-3v4n&theme=swift&hide_border=false" alt="Rentetan Kontribusi GitHub" />
 </p>
 
