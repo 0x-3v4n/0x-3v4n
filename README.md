@@ -3,9 +3,7 @@
 <h3 align="center">Web Developer & Cyber Security Pentester 🚀🔒</h3>
 
 <p align="center">
-  <a href="https://github.com/0x-3v4n">
-    <img src="https://komarev.com/ghpvc/?username=0x-3v4n&style=flat-square&color=0070f3" alt="Pengunjung Profil" />
-  </a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0x-3v4n&count_bg=%230070F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Pengunjung&edge_flat=true" alt="Pengunjung Profil" />
   <a href="https://github.com/0x-3v4n?tab=followers">
     <img src="https://img.shields.io/github/followers/0x-3v4n?label=Pengikut&style=flat-square&color=0070f3" alt="Pengikut GitHub" />
   </a>
