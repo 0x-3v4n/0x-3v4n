@@ -13,6 +13,8 @@
 
 ---
 
+<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
+
 ### 🚀 Tentang Saya
 - 🛡️ **Cybersecurity Learner**: Sedang tekun mempelajari dunia **Keamanan Siber**, eksplorasi kerentanan web, dan teknik dasar *Penetration Testing* (Offensive Security).
 - 💻 **Web Development with AI**: Mempelajari cara membangun aplikasi berbasis web yang responsif, interaktif, serta memanfaatkan integrasi **AI (Artificial Intelligence)** dan konsep *Secure Coding*.
@@ -23,7 +25,9 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
----
+</div>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
 
 ### 📊 Most Used Languages
 
@@ -31,7 +35,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-3v4n&layout=compact&theme=default&hide_border=false&locale=id" alt="Bahasa Pemrograman Terbanyak" />
 </p>
 
----
+</div>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
 
 ### 🛠️ Tools & Technologies
 
@@ -44,3 +50,5 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,kali,wireshark&theme=light" alt="Cybersecurity Tech Stack" />
 </p>
+
+</div>
