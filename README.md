@@ -13,7 +13,10 @@
 - 💻 Berfokus mempelajari cara **membangun aplikasi berbasis web** yang responsif dan interaktif.
 - 🛡️ Aktif mendalami bidang **Keamanan Siber (Cybersecurity)** dan teknik *penetration testing (pentester)*.
 - 🌱 Saat ini sedang mengeksplorasi pembuatan proyek web menggunakan **Laravel & Teknologi Web**.
-- 📫 Cara menghubungi saya: *(Masukkan email atau media sosial Anda di sini)*
+- 📫 Hubungi saya: 
+  <a href="https://instagram.com/finnway_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
 ---
 
