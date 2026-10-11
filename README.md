@@ -3,8 +3,12 @@
 <h3 align="center">Web Developer & Cyber Security Pentester 🚀🔒</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0x-3v4n&style=flat-square&color=0070f3" alt="Pengunjung Profil" />
-  <img src="https://img.shields.io/github/followers/0x-3v4n?label=Pengikut&style=flat-square&color=0070f3" alt="Pengikut GitHub" />
+  <a href="https://github.com/0x-3v4n">
+    <img src="https://komarev.com/ghpvc/?username=0x-3v4n&style=flat-square&color=0070f3" alt="Pengunjung Profil" />
+  </a>
+  <a href="https://github.com/0x-3v4n?tab=followers">
+    <img src="https://img.shields.io/github/followers/0x-3v4n?label=Pengikut&style=flat-square&color=0070f3" alt="Pengikut GitHub" />
+  </a>
 </p>
 
 ---
@@ -13,7 +17,7 @@
 - 🛡️ **Cybersecurity Learner**: Sedang tekun mempelajari dunia **Keamanan Siber**, eksplorasi kerentanan web, dan teknik dasar *Penetration Testing* (Offensive Security).
 - 💻 **Web Development with AI**: Mempelajari cara membangun aplikasi berbasis web yang responsif, interaktif, serta memanfaatkan integrasi **AI (Artificial Intelligence)** dan konsep *Secure Coding*.
 - 🎯 **Tujuan**: Memahami bagaimana sebuah sistem dikembangkan dengan teknologi modern berbasis AI sekaligus mempelajari cara mengamankannya dari berbagai celah kerentanan.
-- 🌱 **Fokus Belajar**: Eksplorasi framework **Laravel**, serta metodologi pengujian keamanan aplikasi web.
+- 🌱 **Fokus Belajar**: Eksplorasi framework **Laravel**, integrasi API/AI dalam web, serta metodologi pengujian keamanan aplikasi web.
 - 📫 **Hubungi Saya**: 
   <a href="https://instagram.com/finnway_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
