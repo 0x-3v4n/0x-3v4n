@@ -1,37 +1,45 @@
-<h1 align="center">Hi there, I'm 0x-3v4n 👋</h1>
-<h3 align="center">A passionate web developer from Indonesia 🇮🇩</h3>
+<h1 align="center">Halo semua, Saya 0x-3v4n 👋</h1>
+<h3 align="center">Calon Web Developer & Cybersecurity Enthusiast 🚀🔒</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0x-3v4n&style=flat-square&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/0x-3v4n?label=Followers&style=flat-square&color=blueviolet" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=0x-3v4n&style=flat-square&color=blueviolet" alt="Pengunjung Profil" />
+  <img src="https://img.shields.io/github/followers/0x-3v4n?label=Pengikut&style=flat-square&color=blueviolet" alt="Pengikut GitHub" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🌱 I'm currently learning and building projects using **Laravel & Web Technologies**.
-- 💼 Focused on backend and full-stack development.
-- 📫 How to reach me: *(Masukkan kontak atau email Anda di sini)*
+### 🚀 Tentang Saya
+- 💻 Berfokus mempelajari cara **membangun aplikasi berbasis web** yang responsif dan interaktif.
+- 🛡️ Aktif mendalami bidang **Keamanan Siber (Cybersecurity)** dan praktik *secure coding*.
+- 🌱 Saat ini sedang mengeksplorasi pembuatan proyek web menggunakan **Laravel & Teknologi Web**.
+- 📫 Cara menghubungi saya: *(Masukkan email atau media sosial Anda di sini)*
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### 📊 Statistik & Aktivitas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x-3v4n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="0x3v4n's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0x-3v4n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=id" alt="Statistik GitHub 0x3v4n" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-3v4n&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-3v4n&layout=compact&theme=tokyonight&hide_border=true&locale=id" alt="Bahasa Pemrograman Terbanyak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x-3v4n&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x-3v4n&theme=tokyonight&hide_border=true" alt="Rentetan Kontribusi GitHub" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Alat & Teknologi
+
+**Pengembangan Web:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,git,github,vscode&theme=dark" alt="Teknologi Web Dev" />
+</p>
+
+**Keamanan Siber & Sistem:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,kali,wireshark&theme=dark" alt="Teknologi Cybersecurity" />
 </p>
