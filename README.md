@@ -17,7 +17,6 @@
   <a href="https://instagram.com/finnway_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-
 ---
 
 ### 📊 Statistik & Aktivitas GitHub
@@ -33,7 +32,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x-3v4n&theme=swift&hide_border=false" alt="Rentetan Kontribusi GitHub" />
 </p>
-
 ---
 
 ### 🛠️ Tools & Technologies
