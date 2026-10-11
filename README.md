@@ -13,7 +13,7 @@
 - 🛡️ **Cybersecurity Learner**: Sedang tekun mempelajari dunia **Keamanan Siber**, eksplorasi kerentanan web, dan teknik dasar *Penetration Testing* (Offensive Security).
 - 💻 **Web Development with AI**: Mempelajari cara membangun aplikasi berbasis web yang responsif, interaktif, serta memanfaatkan integrasi **AI (Artificial Intelligence)** dan konsep *Secure Coding*.
 - 🎯 **Tujuan**: Memahami bagaimana sebuah sistem dikembangkan dengan teknologi modern berbasis AI sekaligus mempelajari cara mengamankannya dari berbagai celah kerentanan.
-- 🌱 **Fokus Belajar**: Eksplorasi framework **Laravel**, integrasi API/AI dalam web, serta metodologi pengujian keamanan aplikasi web.
+- 🌱 **Fokus Belajar**: Eksplorasi framework **Laravel**, serta metodologi pengujian keamanan aplikasi web.
 - 📫 **Hubungi Saya**: 
   <a href="https://instagram.com/finnway_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
