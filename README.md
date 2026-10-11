@@ -1,9 +1,11 @@
-<h1 align="center">Halo semua, Saya 0x-3v4n 👋</h1>
-<p align="center"><em>Learning & Growing...</em></p>
-<h3 align="center">Web Developer & Cyber Security Pentester 🚀🔒</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0070F3&center=true&vCenter=true&width=500&lines=Halo+semua%2C+Saya+0x-3v4n+%F0%9F%90%8B;Web+Developer+%26+Cybersecurity+%F0%9F%9A%80;Learning+Pentesting+%26+Laravel+%F0%9F%94%92" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0x-3v4n&count_bg=%230070F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Pengunjung&edge_flat=true" alt="Pengunjung Profil" />
+  <img src="https://img.shields.io/badge/Focus-Cyber%20Security%20%26%20Web%20Dev-0070f3?style=flat-square&logo=github" alt="Focus" />
   <a href="https://github.com/0x-3v4n?tab=followers">
     <img src="https://img.shields.io/github/followers/0x-3v4n?label=Pengikut&style=flat-square&color=0070f3" alt="Pengikut GitHub" />
   </a>
