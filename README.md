@@ -1,5 +1,5 @@
 <h1 align="center">Halo semua, Saya 0x-3v4n 👋</h1>
-<p align="center"><em>Learning...</em></p>
+<p align="center"><em>Learning & Growing...</em></p>
 <h3 align="center">Web Developer & Cyber Security Pentester 🚀🔒</h3>
 
 <p align="center">
@@ -10,10 +10,11 @@
 ---
 
 ### 🚀 Tentang Saya
-- 💻 Berfokus mempelajari cara **membangun aplikasi berbasis web** yang responsif dan interaktif.
-- 🛡️ Aktif mendalami bidang **Keamanan Siber (Cybersecurity)** dan teknik *penetration testing (pentester)*.
-- 🌱 Saat ini sedang mengeksplorasi pembuatan proyek web menggunakan **Laravel & Teknologi Web**.
-- 📫 Hubungi saya: 
+- 🛡️ **Cybersecurity Learner**: Sedang tekun mempelajari dunia **Keamanan Siber**, eksplorasi kerentanan web, dan teknik dasar *Penetration Testing* (Offensive Security).
+- 💻 **Web Development**: Mempelajari cara membangun aplikasi berbasis web yang responsif, interaktif, serta memahami konsep dasar *Secure Coding*.
+- 🎯 **Tujuan**: Memahami bagaimana sebuah sistem dikembangkan sekaligus mempelajari cara mengamankannya dari berbagai celah kerentanan.
+- 🌱 **Fokus Belajar**: Eksplorasi framework **Laravel** serta metodologi pengujian keamanan aplikasi web.
+- 📫 **Hubungi Saya**: 
   <a href="https://instagram.com/finnway_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
