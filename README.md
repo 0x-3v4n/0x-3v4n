@@ -36,14 +36,14 @@
 
 ---
 
-### 🛠️ Alat & Teknologi
+### 🛠️ Tools & Technologies
 
-**Pengembangan Web:**
+**Web Development:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,git,github,vscode&theme=light" alt="Teknologi Web Dev" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,git,github,vscode&theme=light" alt="Web Dev Tech Stack" />
 </p>
 
-**Keamanan Siber & Sistem:**
+**Cybersecurity & Systems:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,kali,wireshark&theme=light" alt="Teknologi Cybersecurity" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,kali,wireshark&theme=light" alt="Cybersecurity Tech Stack" />
 </p>
