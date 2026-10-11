@@ -1,5 +1,6 @@
 <h1 align="center">Halo semua, Saya 0x-3v4n 👋</h1>
-<h3 align="center">Calon Web Developer & Cybersecurity Enthusiast 🚀🔒</h3>
+<p align="center"><em>Learning...</em></p>
+<h3 align="center">Web Developer & Cyber Security Pentester 🚀🔒</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0x-3v4n&style=flat-square&color=blueviolet" alt="Pengunjung Profil" />
@@ -10,7 +11,7 @@
 
 ### 🚀 Tentang Saya
 - 💻 Berfokus mempelajari cara **membangun aplikasi berbasis web** yang responsif dan interaktif.
-- 🛡️ Aktif mendalami bidang **Keamanan Siber (Cybersecurity)** dan praktik *secure coding*.
+- 🛡️ Aktif mendalami bidang **Keamanan Siber (Cybersecurity)** dan teknik *penetration testing (pentester)*.
 - 🌱 Saat ini sedang mengeksplorasi pembuatan proyek web menggunakan **Laravel & Teknologi Web**.
 - 📫 Cara menghubungi saya: *(Masukkan email atau media sosial Anda di sini)*
 
